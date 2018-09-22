@@ -1,0 +1,13 @@
+{
+  "name": "deque",
+  "version": "1.0.0",
+  "description": "A simple deque application built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ibrahim Rahmani",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
